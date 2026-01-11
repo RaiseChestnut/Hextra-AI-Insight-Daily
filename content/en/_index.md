@@ -2,72 +2,91 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /en/2026-01/2026-01-10
+next: /en/2026-01/2026-01-11
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI Daily News 2026/1/11
+## AI News Daily: January 12, 2026
 
-> `AI News` | `Daily Read` | `Aggregated Web Data` | `Cutting-Edge Science` | `Industry Voice` | `Open Source Power` | `AI & Our Future` | [Visit Web Version 🚀](https://ai.hubtoday.app/) | [Join the Community Chat! 👋](https://source.hubtoday.app/logo/wechat-qun.jpg)
+> `AI News` | `Daily Briefing` | `Web Data Aggregation` | `Cutting-Edge Science` | `Industry Voice` | `Open Source Innovation` | `AI & Our Future` | [Visit Web Version ↗️](https://ai.hubtoday.app/) | [Join the Chat 🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
-### **Today's Hot Takes**
+### **Today's Digest**
 
 ```
-Niji 7 drops, focusing on visual consistency and sref style transfer support.
-FaceRefiner tackles inconsistent AI facial details using differentiable rendering.
-InfiAgent's file-centric state externalization scheme zaps long task context explosion.
-Call Me plugin lets Claude auto-dial you when it hits a snag.
-DeepSeek V4 might be dropping soon, and the community's already buzzing about "shocking" headlines.
+Sakana AI and MIT team up on DRQ algorithm, letting AI programs 'hunt' and evolve each other.
+OpenAI officially backs Open Code, allowing direct ChatGPT authorization.
+At Tsinghua AGI Summit, Tang Jie declares the end of the 'Chat Era,' while Lin Junyang gives China a 20% chance of overtaking.
+Top-tier products like DeepSeek started as side hustles.
+Open-source projects ralph-claude-code and Plane project management tool are gaining traction.
 ```
 
 ### Product & Feature Updates
 
-1. **Niji 7 anime model is officially here!**
-Niji 7, the anime model, is officially here! 🎉 Niji・Journey just dropped a massive update after a year and a half. This new version, detailed in this [Latest Version Introduction (AI News)](https://www.xiaohu.ai/c/xiaohu-ai/niji-journey-niji-7), brings a groundbreaking focus on visual **consistency**. Seriously, the eye specular highlights and reflection details are stunning ✨, and its prompt understanding is way sharper. Plus, there's a fresh **sref style transfer** feature, letting users easily swap character styles. The team revealed their aesthetic goal: "lines and space," aiming for a flatter, cleaner artistic vibe. <br/>![AI News: Niji 7 Anime Character Eye Specular Highlight Details Display](https://source.hubtoday.app/images/2026/01/news_01kem7xcgae5y8kdp4q38xat79.avif)<br/>
+1.  **Sakana AI has AI programs hunting each other.**
+    Sakana AI's training method is pretty intense 🔥, with programs 'hunting' each other in a virtual machine. This is a collaborative [research project (AI News)](https://arxiv.org/abs/2601.03335) with MIT. The convergent evolution phenomenon is super interesting; different programs evolve similar behaviors. How cool is that? ✨
 
-### Frontier Research
-
-1. **FaceRefiner makes facial textures super real.**
-FaceRefiner is here to make AI-generated facial textures look super real! 🤩 This [Paper (AI News)](https://arxiv.org/abs/2601.04520) tackles that annoying old issue of inconsistent AI face details. Its clever approach treats 3D sampled textures as styles and uses **differentiable rendering** for transfer. What's awesome is it doesn't just pass high-level info; it nails pixel-level details too, so identity features stay intact. On datasets like Multi-PIE and CelebA, it blows existing methods out of the water.
-
-2. **New research dives into human-computer collaboration for spotting phishing emails.**
-A new study dives into human-computer collaboration for spotting phishing emails. 🕵️‍♀️ This [New Research (AI News)](https://arxiv.org/abs/2601.04610) compared how well machine learning and humans judge phishing attempts. The models were pretty accurate, but their **confidence** was all over the place. Humans, on the other hand, used a richer set of language features, leading to more stable judgments. Interestingly, age played a role in detection effectiveness, but language proficiency didn't really move the needle.
-
-3. **InfiAgent tackles dreaded context explosion in long tasks.**
-InfiAgent is tackling the dreaded context explosion in long tasks. 🤯 This [Paper (AI News)](https://arxiv.org/abs/2601.03204) introduces a file-centric state externalization scheme that keeps Agent inference context **length fixed**. That means no matter if a task runs for 10 steps or 1000, errors won't pile up. What's cool is a 20B open-source model, using this, performed nearly as well as much larger closed-source systems on an 80-paper literature review task. Pretty slick! 🚀<br/>![AI News: InfiAgent Framework Long Task Processing Architecture Diagram](https://source.hubtoday.app/images/2026/01/news_01kem7xhz8eq0a7kaa6babksfm.avif)<br/>
-
-### TOP Open Source Projects
-
-1. **Call Me plugin lets Claude auto-dial you.**
-The Call Me plugin for Claude Code is a game-changer! 📞 This [Claude Code Plugin (AI News)](https://github.com/ZeframLou/call-me) lets AI literally auto-dial you when it hits a snag. Whether it's reporting task results or asking for your input when stuck, voice calls handle it all. It works with phones, smartwatches, and even landlines, and calls are super affordable at just **~$0.03/minute**. Just set up your Telnyx or Twilio account, and you're good to go! ✨<br/>![AI News: Call Me Plugin Architecture Diagram](https://source.hubtoday.app/images/2026/01/news_01kem7xrw4egz9ah3cj5s6z6c3.avif)<br/>
-
-2. **superpowers is beefing up Claude Code with extra capabilities.**
-superpowers is beefing up Claude Code with extra capabilities. 💪 This [Project (AI News)](https://github.com/obra/superpowers), boasting 15.9k stars, is a dedicated library that adds core skill modules to help developers make the most of their Agents. The open-source community is totally digging it! 👍
-
-3. **xpipe is your new go-to for local server management.**
-xpipe is your new go-to for local server management! 🖥️ This [xpipe Project (AI News)](https://github.com/xpipe-io/xpipe), with a solid 13.2k stars, lets you access your entire server infrastructure right from your desktop. It's a one-stop shop for managing multiple servers, making life super easy for ops folks. 🚀
-
-4. **OpenProject is slaying it as a leading open-source project management solution.**
-OpenProject is slaying it as a leading open-source project management solution. 📋 This [Tool (AI News)](https://github.com/opf/openproject), rocking 13.6k stars, comes packed with features and fully supports agile development. It's perfect for team collaboration scenarios – seriously, your squad will love it! 🧑‍💻
-
-### Social Media Shares
-
-1. **Ever wonder what it's like to hit that coding flow state?**
-Ever wonder what it's like to hit that coding flow state? 💻 A [Twitter Friend Shared (AI News)](https://x.com/hongming731/status/2009931290167152926) a screenshot where their code was just *flowing*, making them genuinely happy. Yup, a programmer's joy is often that simple! 😄<br/>![AI News: Programmer Coding Happily Screenshot](https://source.hubtoday.app/images/2026/01/news_01kem7xwy8ehzr8p5n0137drdk.avif)<br/>
-
-2. **OpenCode Desktop, or rather JimmyLv's cool tool, is making waves.**
-OpenCode Desktop, or rather JimmyLv's cool tool, is making waves. 🌊 [JimmyLv Shared (AI News)](https://x.com/Jimmy_JingLv/status/2009821150281711893) that his http://aigtd.com is essentially a "regular person's" version of opencode. It uses the same Tauri tech stack but is specifically geared towards non-programmer users. Smart move! 💡<br/>![AI News: OpenCode Desktop Interface Screenshot](https://source.hubtoday.app/images/2026/01/news_01kem7y2kdep39j7x6k209gp88.avif)<br/>
-
-3. **DeepSeek V4 is on the horizon, and the anticipation is wild!**
-DeepSeek V4 is on the horizon, and the anticipation is wild! 🔥 A [Jike Netizen (AI News)](https://m.okjike.com/originalPosts/6961974ec5a1d4e6497c18f2) jokingly warned that folks better get ready: tell the family Spring Festival plans might shift, bosses should prep those overtime bonuses, and product managers ought to start brainstorming reskinning ideas. And for all you self-media gurus out there? Time to pre-type "**SHOCKING**" in your headlines! 🤯
+2.  **OpenAI officially supports Open Code.**
+    Open Code can now directly use ChatGPT authorization 🚀. Plus and Pro users can confidently use [Open Code (AI News)](https://x.com/op7418/status/2010031968399028555) without worrying about account bans. Feel free to call the Codex model! 😎<br/>![AI News: Open Code supports official OpenAI login authorization](https://source.hubtoday.app/images/2026/01/news_01kepwcb3xervbdv4f92zc4ben.avif)<br/>
 
 ---
 
-## **AI Daily News Voice Version**
+### Cutting-Edge Research
+
+1.  **The Digital Red Queen has arrived.**
+    Sakana has rolled out the DRQ algorithm, and it's seriously hardcore 🔥. This algorithm enables AI programs to continuously evolve within Core War. The cool outcome? We're seeing **convergent evolution**, where different experiments ultimately develop [similar strategies (AI News)](https://sakana.ai/drq/). Plus, the code is open source! 🤩
+
+---
+
+### Industry Outlook & Social Impact
+
+1.  **Four foundational model experts gather in Zhongguancun for a summit.**
+    Tsinghua University hosted an event bringing together AI big shots, and the information density was off the charts 🔥. Tang Jie declared that the Chat Era is pretty much over. Yang Zhilin emphasized that building models is about creating a **worldview**. Lin Junyang offered China a 💡 20% chance of overtaking. This [full report (AI News)](https://www.qbitai.com/2026/01/368917.html) is definitely worth a deep dive.
+
+2.  **DeepSeek started out as a side project.**
+    QuantFarm's side hustle ended up becoming a 💡 global top-tier product. Qwen was also initially a side project, and Claude Code followed suit. 😉 A [Qubit report (AI News)](https://www.qbitai.com/2026/01/368958.html) has compiled eight such cases. Are side projects more likely to succeed? 🤔
+
+3.  **Be cautious about the anti-AI bubble.**
+    The open-source license debate continues to heat up 🔥: Can GPL really constrain model-generated content? Tailwind was used as a case study for discussion. Code quality is reportedly declining 🤔, and job anxiety is spreading. A [detailed discussion (AI News)](https://newshacker.me/story?id=46574276) offers diverse viewpoints. We should conduct practical experiments and avoid blind rejection. <br/>
+
+---
+
+### Top Open-Source Projects
+
+1.  **ralph-claude-code makes its debut.**
+    This autonomous AI development loop tool features smart exit detection 🚀. It's designed specifically for Claude Code. 😉 It's already racked up [⭐1.3k (AI News)](https://github.com/frankbria/ralph-claude-code) on GitHub. Word on the street is the development experience is super smooth!
+
+2.  **Plane: A project management powerhouse.**
+    This open-source alternative to Jira and Linear offers comprehensive features 💡, covering everything from task sprints to document categorization. It boasts [GitHub stars ⭐43.4k (AI News)](https://github.com/makeplane/plane). Plus, its modern UI looks pretty slick! ✨
+
+3.  **Twemoji: An emoji library for everyone.**
+    This 🔥 open-source emoji solution from Twitter is super convenient and accessible to all. It's racked up [⭐17.4k (AI News)](https://github.com/twitter/twemoji) downloads. And guess what? Its cross-platform compatibility is top-notch! 👍
+
+---
+
+### Social Media Shares
+
+1.  **Animated PPT generation is here!**
+    Guizang has absolutely nailed animated presentation PPTs 🚀—seriously impressive! It supports exporting complete videos, 😉 and the homepage animations loop infinitely. This [original post display (AI News)](https://m.okjike.com/originalPosts/69636c319f3cd84f65fa93e4) truly showcases its unique effect. <br/></video><br/>
+
+2.  **A workaround for Claude Code login restrictions.**
+    Even modifying environment variables didn't work 🤔; Anthropic was being pretty sneaky. Turns out, you just need to add one line to the config file! Guizang shared the [specific operation (AI News)](https://m.okjike.com/originalPosts/69632cc9527b8f0145b41c85): set `hasCompletedOnboarding` to `true`.<br/>![AI News: Claude Code configuration file modification method](https://source.hubtoday.app/images/2026/01/news_01kepwcf2rfrdttapwavj9982w.avif)<br/>
+
+3.  **Creative AI project installation prompts.**
+    The oh-my-opencode approach is quite interesting 💡: installation instructions are written for the AI! Just copy the prompt, and it installs automatically. Guizang shared this [smart trick (AI News)](https://x.com/op7418/status/2010193224732946808)—Claude Code gets set up with one click. Easy peasy! <br/>![AI News: oh-my-opencode project AI installation prompt](https://source.hubtoday.app/images/2026/01/news_01kepwcjpqfp286cd60996m94c.avif)<br/>
+
+4.  **Claude Code writing Claude Code?!**
+    A wild, magical scene has unfolded 🔥: an Agent writing another Agent! The project dependencies are seriously nested, 😉 and to top it off, functionality broke after an upgrade. Nazha's [complaint (AI News)](https://x.com/xiaokedada/status/2010001676519002309) perfectly captures it: this world is just too trippy. 🤯<br/>![AI News: Claude Code project dependency relationship screenshot](https://source.hubtoday.app/images/2026/01/news_01kepwcrccfg9azb9begn2bj48.avif)<br/>
+
+5.  **Too much certainty leads to nothing getting done.**
+    Fanciful Xiaobei shared a thought-provoking insight 💡: playing it safe is actually high-risk. Innovation happens in the fuzzy, uncertain zones. A 20% success rate isn't waiting around for anyone! 😉 These [original post thoughts (AI News)](https://x.com/frxiaobei/status/2010271757286973506) are quite inspiring.
+
+---
+
+## **AI News Daily: Voice Edition**
 
 | 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
 | --- | --- |
-| [Laisheng Xiaojiuguan](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![Xiaojiuguan](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [Laisheng Small Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
+| ![Small Tavern](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
